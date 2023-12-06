@@ -1,0 +1,28 @@
+﻿@model Aspnetproject.model.Admin
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-primary text-white">Register</div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="form-group">
+                            <label for="Username">Username:</label>
+                            <input id="Username" name="Username" type="text" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label for="Email">Email:</label>
+                            <input id="Email" name="Email" type="email" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label for="PasswordHash">Password:</label>
+                            <input id="PasswordHash" name="PasswordHash" type="password" class="form-control" />
+                        </div>
+                        <button type="submit" class="btn btn-primary">Register</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

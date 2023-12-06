@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Aspnetproject.model.Product>
+
+@{
+    Layout = "_ClientLayout";
+    ViewData["Title"] = "IITSTORE";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="@product.ImageUrl" class="card-img-top" alt="Product image">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Title</h5>
+                        <p class="card-text">@product.Description</p>
+                        <p class="card-text">Price: @product.Price</p>
+                        <p class="card-text">ListPrice: @product.ListPrice</p>
+                        <p class="card-text">Price50:@product.Price50</p>
+                        <p class="card-text">Price100:@product.Price100</p>
+                        <form asp-controller="Client" asp-action="AddToCart" method="post">
+                            <input type="hidden" name="productId" value="@product.Id" />
+                            <input type="submit" asp-action="AddToCart" class="btn btn-primary" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

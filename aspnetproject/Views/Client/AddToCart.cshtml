@@ -1,0 +1,13 @@
+﻿@model Aspnetproject.model.CartItem
+
+@{
+    Layout = "_ClientLayout";
+    ViewData["Title"] = "Article ajouté au panier";
+}
+
+<div class="container mt-5">
+    <h1>Article ajouté au panier</h1>
+    <p>L'article a été ajouté avec succès à votre panier.</p>
+    <a asp-controller="Client" asp-action="AddToCart" class="btn btn-primary">Voir le panier</a>
+    <a asp-controller="Client" asp-action="Index" class="btn btn-secondary">Continuer les achats</a>
+</div>
