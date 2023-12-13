@@ -16,6 +16,8 @@
             <thead>
                 <tr>
                     <th>ID</th>
+                    <th>Product Image</th>
+
                     <th>Client Name</th>
                     <th>Product Title</th>
                     <th>Quantity</th>
@@ -27,6 +29,11 @@
                     <tr>
                         <td width="20%">
                             @order.Id
+                        </td>
+
+                        <td>
+                            <!-- Set the max-width and max-height for the image -->
+                            <img src="@order.Product.ImageUrl" class="card-img-top img-fluid" alt="Product image" style="max-width: 100px; max-height: 100px;">
                         </td>
                         <td width="30%">
                             @order.Client.Username

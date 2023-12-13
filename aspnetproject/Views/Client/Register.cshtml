@@ -7,40 +7,87 @@
 
 <div class="container mt-5">
     <div class="row justify-content-center">
-        <div class="col-md-6">
-            <div class="card">
-                <div class="card-header bg-primary text-white">Register</div>
-                <div class="card-body">
+        <div class="col-lg-6 mb-5 mb-lg-0">
+            <div class="card cascading-right" style="
+                background: hsla(0, 0%, 100%, 0.55);
+                backdrop-filter: blur(30px);
+                ">
+                <div class="card-body p-5 shadow-5 text-center">
+                    <h2 class="fw-bold mb-5">Sign up now</h2>
                     <form method="post">
+                        <!-- 2 column grid layout with text inputs for the first and last names -->
+                        <div class="row">
+                            <div class="col-md-6 mb-4">
+                                <div class="form-outline">
+                                    <label asp-for="Username" class="form-label">Username:</label>
+                                    <input asp-for="Username" class="form-control" />
+                                    <span asp-validation-for="Username" class="text-danger"></span>
+                                </div>
+                            </div>
+                         
+
+                        <!-- Email input -->
+                        <div class="form-outline mb-4">
+                            <label asp-for="Email" class="form-label">Email address:</label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <!-- Password input -->
+                        <div class="form-outline mb-4">
+                            <label asp-for="PasswordHash" class="form-label">Password:</label>
+                            <input asp-for="PasswordHash" type="password" class="form-control" />
+                            <span asp-validation-for="PasswordHash" class="text-danger"></span>
+                        </div>
+
+                        <!-- Additional fields from your original form -->
                         <div class="form-group">
-                            <label for="Username">Username:</label>
-                            <input id="Username" name="Username" type="text" class="form-control" />
+                            <label asp-for="Age">Age:</label>
+                            <input asp-for="Age" type="number" class="form-control" />
+                            <span asp-validation-for="Age" class="text-danger"></span>
                         </div>
                         <div class="form-group">
-                            <label for="Email">Email:</label>
-                            <input id="Email" name="Email" type="email" class="form-control" />
+                            <label asp-for="City">City:</label>
+                            <input asp-for="City" class="form-control" />
+                            <span asp-validation-for="City" class="text-danger"></span>
                         </div>
                         <div class="form-group">
-                            <label for="PasswordHash">Password:</label>
-                            <input id="PasswordHash" name="PasswordHash" type="password" class="form-control" />
+                            <label asp-for="Country">Country:</label>
+                            <input asp-for="Country" class="form-control" />
+                            <span asp-validation-for="Country" class="text-danger"></span>
                         </div>
                         <div class="form-group">
-                            <label for="Age">Age:</label>
-                            <input id="Age" name="Age" type="number" class="form-control" />
+                            <label asp-for="PhoneNumber">Phone Number:</label>
+                            <input asp-for="PhoneNumber" type="tel" class="form-control" />
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
                         </div>
-                        <div class="form-group">
-                            <label for="City">City:</label>
-                            <input id="City" name="City" type="text" class="form-control" />
+
+                        
+
+                        <!-- Submit button -->
+                        <button type="submit" class="btn btn-primary btn-block mb-4">
+                            Sign up
+                        </button>
+
+                        <!-- Register buttons -->
+                        <div class="text-center">
+                            <p>or sign up with:</p>
+                            <button type="button" class="btn btn-link btn-floating mx-1">
+                                <i class="fab fa-facebook-f"></i>
+                            </button>
+
+                            <button type="button" class="btn btn-link btn-floating mx-1">
+                                <i class="fab fa-google"></i>
+                            </button>
+
+                            <button type="button" class="btn btn-link btn-floating mx-1">
+                                <i class="fab fa-twitter"></i>
+                            </button>
+
+                            <button type="button" class="btn btn-link btn-floating mx-1">
+                                <i class="fab fa-github"></i>
+                            </button>
                         </div>
-                        <div class="form-group">
-                            <label for="Country">Country:</label>
-                            <input id="Country" name="Country" type="text" class="form-control" />
-                        </div>
-                        <div class="form-group">
-                            <label for="PhoneNumber">Phone Number:</label>
-                            <input id="PhoneNumber" name="PhoneNumber" type="tel" class="form-control" />
-                        </div>
-                        <button type="submit" class="btn btn-primary">Register</button>
                     </form>
                 </div>
             </div>

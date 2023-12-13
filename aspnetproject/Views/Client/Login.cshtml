@@ -1,28 +1,50 @@
 ﻿@model Aspnetproject.model.Client
 @{
     Layout = "_ClientLayout";
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Login";
 }
 
-<div class="container mt-5">
-    <div class="row justify-content-center">
-        <div class="col-md-6">
-            <div class="card">
-                <div class="card-header bg-primary text-white">Login</div>
-                <div class="card-body">
-                    <form method="post">
-                        <div class="form-group">
-                            <label for="Username">Username:</label>
-                            <input id="Username" name="Username" type="text" class="form-control" />
-                        </div>
-                        <div class="form-group">
-                            <label for="PasswordHash">Password:</label>
-                            <input id="PasswordHash" name="PasswordHash" type="password" class="form-control" />
-                        </div>
-                        <button type="submit" class="btn btn-primary">Login</button>
-                    </form>
+<!-- Section: Design Block -->
+<section class="text-center text-lg-start">
+    <style>
+        .cascading-right {
+            margin-right: -50px;
+        }
+
+        }
+    </style>
+
+    <!-- Jumbotron -->
+    <div class="container py-4">
+        <div class="row g-0 align-items-center">
+            <div class="col-lg-6 mb-5 mb-lg-0">
+                <div class="card cascading-right" style="
+                    background: hsla(0, 0%, 100%, 0.55);
+                    backdrop-filter: blur(30px);
+                    ">
+                    <div class="card-body p-5 shadow-5 text-center">
+                        <h2 class="fw-bold mb-5">Login</h2>
+                        <form method="post">
+                            <div class="form-group">
+                                <label for="Username">Username:</label>
+                                <input id="Username" name="Username" type="text" class="form-control" />
+                            </div>
+                            <div class="form-group">
+                                <label for="PasswordHash">Password:</label>
+                                <input id="PasswordHash" name="PasswordHash" type="password" class="form-control" />
+                            </div>
+                            <button type="submit" class="btn btn-primary">Login</button>
+                        </form>
+                    </div>
                 </div>
+            </div>
+
+            <div class="col-lg-6 mb-5 mb-lg-0">
+                <img src="https://mdbootstrap.com/img/new/ecommerce/vertical/004.jpg" class="w-100 rounded-4 shadow-4"
+                    alt="" />
             </div>
         </div>
     </div>
-</div>
+    <!-- Jumbotron -->
+</section>
+<!-- Section: Design Block -->

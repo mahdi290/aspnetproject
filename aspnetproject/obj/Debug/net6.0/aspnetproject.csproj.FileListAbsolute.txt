@@ -2840,3 +2840,4 @@ C:\Users\DELL\Desktop\aspnetproject-master\aspnetproject\obj\Debug\net6.0\refint
 C:\Users\DELL\Desktop\aspnetproject-master\aspnetproject\obj\Debug\net6.0\aspnetproject.pdb
 C:\Users\DELL\Desktop\aspnetproject-master\aspnetproject\obj\Debug\net6.0\aspnetproject.genruntimeconfig.cache
 C:\Users\DELL\Desktop\aspnetproject-master\aspnetproject\obj\Debug\net6.0\ref\aspnetproject.dll
+C:\Users\DELL\Desktop\aspnetproject-master\aspnetproject\obj\Debug\net6.0\aspnetproject.sourcelink.json
