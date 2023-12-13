@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Aspnetproject.model.CartItem>
+
+@{
+    Layout = "_ClientLayout";
+    ViewData["Title"] = "IITSTORE";
+
+    // Calculer le prix total global
+    double totalPrice = Model.Sum(cartItem => cartItem.Product.Price * cartItem.Quantity);
+}
+
+<h2>Add To Cart</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Product Image</th>
+            <th>Client Name</th>
+            <th>Product Title</th>
+            <th>Quantity</th>
+            <th>Price per Unit</th>
+            <th>Total Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cartItem in Model)
+        {
+            <tr>
+                <td>@cartItem.Id</td>
+                <td>
+                    <!-- Set the max-width and max-height for the image -->
+                    <img src="@cartItem.Product.ImageUrl" class="card-img-top img-fluid" alt="Product image" style="max-width: 100px; max-height: 100px;">
+                </td>
+                <td>@cartItem.Client.Username</td>
+                <td>@cartItem.Product.Title</td>
+                <td>@cartItem.Quantity</td>
+                <td>@cartItem.Product.Price</td>
+                <td>@(cartItem.Product.Price * cartItem.Quantity)</td>
+                <!-- Add action column if needed -->
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="5"></td>
+            <td><strong>Total Price:</strong></td>
+            <td><strong>@totalPrice</strong></td>
+        </tr>
+    </tfoot>
+</table>

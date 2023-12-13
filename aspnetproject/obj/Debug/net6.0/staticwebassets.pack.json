@@ -1,0 +1,517 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\aspnetproject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\aspnetproject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\css\\templatemo-sixteen.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-sixteen.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\about-heading.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\client-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client-01.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\contact-heading.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\download.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\feature-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\more-info.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\more-info.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\product_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\product_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\product_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\product_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\product_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\product_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\products-heading.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\services-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\slide_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\slide_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\slide_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\team_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\team_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\team_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\team_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\team_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\images\\team_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\aspnetproject-master\\aspnetproject\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.aspnetproject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.aspnetproject.props",
+      "PackagePath": "build\\aspnetproject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.aspnetproject.props",
+      "PackagePath": "buildMultiTargeting\\aspnetproject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.aspnetproject.props",
+      "PackagePath": "buildTransitive\\aspnetproject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

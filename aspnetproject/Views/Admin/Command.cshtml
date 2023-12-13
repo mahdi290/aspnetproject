@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Aspnetproject.model.CartItem>
+
+<div class="container p-3" style="margin-left: 15rem;">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Order History</h2>
+        </div>
+        <div class="col-6 text-end">
+            <!-- Add any buttons or actions here -->
+        </div>
+    </div>
+    <br /><br />
+
+    <div class="col">
+        <table class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Client Name</th>
+                    <th>Product Title</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td width="20%">
+                            @order.Id
+                        </td>
+                        <td width="30%">
+                            @order.Client.Username
+                        </td>
+                        <td>
+                            @order.Product.Title
+                        </td>
+                        <td>
+                            @order.Quantity
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

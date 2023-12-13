@@ -1,0 +1,77 @@
+﻿@model Aspnetproject.model.Product
+
+<div class="container p-3" style="margin-left: 15rem;">
+    <!-- Add margin-left here -->
+    <form asp-action="Delete" method="post">
+        <input asp-for="Id" hidden />
+        <div class="border p-3 mt-4">
+            <div class="row pb-2">
+                <h2 class="text-primary">Delete Product</h2>
+                <hr />
+            </div>
+            @*<div asp-validation-summary="All"></div>*@
+            <div class="row">
+                <div class="col-md-6">
+                    <!-- Change col-6 to col-md-6 for responsiveness -->
+                    <div class="mb-3">
+                        <label asp-for="Title"></label>
+                        <input asp-for="Title" class="form-control" disabled />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Description"></label>
+                        <input asp-for="Description" class="form-control" disabled />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="ISBN"></label>
+                        <input asp-for="ISBN" class="form-control" disabled />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Author"></label>
+                        <input asp-for="Author" class="form-control" disabled />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <!-- Change col-6 to col-md-6 for responsiveness -->
+                    <div class="mb-3">
+                        <label asp-for="ListPrice"></label>
+                        <input asp-for="ListPrice" class="form-control" disabled />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Price"></label>
+                        <input asp-for="Price" class="form-control" disabled />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Price50"></label>
+                        <input asp-for="Price50" class="form-control" disabled />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Price100"></label>
+                        <input asp-for="Price100" class="form-control" disabled />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="ImageUrl"></label>
+                        <input asp-for="ImageUrl" class="form-control" disabled />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="CategoryId"></label>
+                        <input asp-for="CategoryId" class="form-control" disabled />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 text-end">
+                    <button type="submit" class="btn btn-danger" style="width:150px">Delete</button>
+                    <a asp-controller="Product" asp-action="Index" class="btn btn-secondary" style="width:150px">
+                        Back to List
+                    </a>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

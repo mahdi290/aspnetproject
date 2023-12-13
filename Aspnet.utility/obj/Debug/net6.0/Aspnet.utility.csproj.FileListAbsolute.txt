@@ -1,0 +1,59 @@
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.deps.json
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.dll
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.pdb
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.AssemblyInfoInputs.cache
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.AssemblyInfo.cs
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.csproj.CoreCompileInputs.cache
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.dll
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\obj\Debug\net6.0\refint\Aspnet.utility.dll
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.pdb
+C:\Users\dell\mahdii\Desktop\.net\Aspnet.utility\obj\Debug\net6.0\ref\Aspnet.utility.dll
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.deps.json
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.dll
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.pdb
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.csproj.AssemblyReference.cache
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.AssemblyInfoInputs.cache
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.AssemblyInfo.cs
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.csproj.CoreCompileInputs.cache
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.dll
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\obj\Debug\net6.0\refint\Aspnet.utility.dll
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.pdb
+C:\Users\dell\mahdii\Desktop\PROJET COPY\.net\Aspnet.utility\obj\Debug\net6.0\ref\Aspnet.utility.dll
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.deps.json
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.dll
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.pdb
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.AssemblyInfo.cs
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.dll
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\obj\Debug\net6.0\refint\Aspnet.utility.dll
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.pdb
+C:\Users\DELL\Desktop\nett\net-master\.net\Aspnet.utility\obj\Debug\net6.0\ref\Aspnet.utility.dll
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.deps.json
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.dll
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.pdb
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.AssemblyInfo.cs
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.dll
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\obj\Debug\net6.0\refint\Aspnet.utility.dll
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.pdb
+C:\Users\DELL\Desktop\aspnetproject-main\Aspnet.utility\obj\Debug\net6.0\ref\Aspnet.utility.dll
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.deps.json
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.dll
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\bin\Debug\net6.0\Aspnet.utility.pdb
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.AssemblyInfo.cs
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.dll
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\obj\Debug\net6.0\refint\Aspnet.utility.dll
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\obj\Debug\net6.0\Aspnet.utility.pdb
+C:\Users\DELL\Desktop\aspnetproject-master\Aspnet.utility\obj\Debug\net6.0\ref\Aspnet.utility.dll
