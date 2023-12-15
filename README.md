@@ -1,3 +1,14 @@
+![Adminregister](https://github.com/mahdi290/aspnetproject/assets/83859113/817eb505-5685-4f67-b6d0-f0374b8b5640)
+![admlogin](https://github.com/mahdi290/aspnetproject/assets/83859113/ecbecf02-d07a-4532-8aad-20129b3694d3)
+![category](https://github.com/mahdi290/aspnetproject/assets/83859113/292653ec-e03d-49a1-805a-c58c6e6ae758)
+![Client Hom2](https://github.com/mahdi290/aspnetproject/assets/83859113/9216c2d1-656f-4d45-a839-69a42321c58e)
+![Client home1](https://github.com/mahdi290/aspnetproject/assets/83859113/304acde0-cf6a-48b8-abb3-cc9d46fc67b3)
+![Client SIgnup](https://github.com/mahdi290/aspnetproject/assets/83859113/c351f666-5b8d-45bc-97f5-fe89c4358c6f)
+![CommandAdmin](https://github.com/mahdi290/aspnetproject/assets/83859113/0d933472-7d40-4ae4-a032-658c542a4ba5)
+![Login Client](https://github.com/mahdi290/aspnetproject/assets/83859113/0b5ac9eb-3c76-415b-8ed3-aa7c138fabce)
+![Panier](https://github.com/mahdi290/aspnetproject/assets/83859113/cc97586c-8e75-4e7c-967c-459ca87ad5ed)
+![Product Admin form](https://github.com/mahdi290/aspnetproject/assets/83859113/5b06057e-8b16-4090-979e-124bbc1db9fd)
+![Product Admin](https://github.com/mahdi290/aspnetproject/assets/83859113/0685c34b-7372-4c0c-8a68-2c555452c63c)
 
 
 1)	Introduction 
